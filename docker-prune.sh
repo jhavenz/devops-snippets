@@ -1,6 +1,6 @@
 #!bin/bash
 
-# Accreditation
+# Original Accreditation
 # https://github.com/gotzmann/snippets/blob/master/docker-prune.sh
 
 # Prune docker system and remove all containers, images, volumes with one command.

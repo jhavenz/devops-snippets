@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Accreditation
+# Original Accreditation
 # https://github.com/thedevdojo/larasail/blob/master/.larasail/setup
 
 . /colors.sh
